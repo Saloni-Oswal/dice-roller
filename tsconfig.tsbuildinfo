@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/die.tsx","./src/components/rollhistory.tsx","./src/components/rollmodeselector.tsx","./src/components/themeselector.tsx","./src/components/ui/button.tsx","./src/lib/utils.tsx","./src/pages/diceroller.tsx"],"version":"5.9.3"}
